@@ -27,9 +27,9 @@ Extensión de Chrome que filtra vacantes de LinkedIn por idioma (ES/EN), con det
 
 ### 🐱 [Cook Cat Kiwii](https://github.com/agustcord/Cook-Cat-Kiwii)
 
-Mi primer videojuego: cocina felina hecha en **Godot**. Yo hago el arte y el diseño; aprendo GDScript en el camino.
+Mi primer videojuego: *Kiwipaw Bakehouse*, una panadería felina cozy hecha con **Phaser**. Ilustración propia en **Krita** complementada con IA generativa, sobre una biblia de arte que define paleta y estilo.
 
-`Godot` `GDScript` `Pixel Art`
+`Phaser` `JavaScript` `Krita` `Arte + IA`
 
 </td>
 </tr>
@@ -37,13 +37,15 @@ Mi primer videojuego: cocina felina hecha en **Godot**. Yo hago el arte y el dis
 
 ## 🛠️ Herramientas que uso
 
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Phaser](https://img.shields.io/badge/Phaser-8CC84B?style=for-the-badge&logo=phaser&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
 
-Y del otro mundo: Meta Ads, Google Ads, analítica, CRMs y gestión de proyectos.
+También integro **IA generativa** en mis flujos creativos (arte, assets, código) — y del otro mundo: Meta Ads, Google Ads, analítica, CRMs y gestión de proyectos.
 
 ## 🎭 Fuera del teclado
 
