@@ -1,14 +1,14 @@
 # ¡Hola! Soy Jonatan Agustín Córdoba 👋
 
-Desde Rosario, Argentina 🧉 — un curioso profesional del mundo de la **tecnología, los negocios y todo lo que se pueda aprender**.
+Desde Rosario, Argentina 🧉 — **desarrollador y creador de productos digitales**, con una base en marketing y negocios que uso para construir cosas que resuelven problemas reales.
 
 ## 🧭 Mi historia
 
-Soy **Técnico Superior en Marketing** con orientación en Comercio Internacional (ICC, 2023) y cursé hasta 4° año de **Relaciones Internacionales** en la Universidad Nacional de Rosario. Llevo más de **6 años de trayectoria** en ventas y marketing: pasé por una fábrica de muebles, una industria metalúrgica, el rubro inmobiliario y una software factory, hasta llegar a mis roles actuales como **Marketing Project Manager** y **Responsable de Marketing**.
+Construyo software de punta a punta: **videojuegos, extensiones de navegador y aplicaciones web full-stack**. Me muevo cómodo tanto en el frontend (JavaScript, Phaser) como en el backend (Python, FastAPI, bases de datos), y me gusta llevar un proyecto desde la idea hasta el deploy funcionando.
 
-En ese recorrido descubrí algo: cada vez que un problema necesitaba una solución técnica —automatizar un reporte, entender una API, armar una herramienta— era yo el que levantaba la mano. Así que decidí dejar de mirar desde afuera y empezar a **construir**.
+Mi camino hacia el desarrollo vino desde el lado del negocio: soy **Técnico Superior en Marketing** (ICC, 2023) y trabajé más de 6 años en marketing y proyectos comerciales, hasta roles de **Marketing Project Manager**. En ese recorrido, cada vez que un problema pedía una solución técnica —automatizar procesos, integrar una API, construir una herramienta a medida— era el desafío que me enganchaba. Así que dejé de tercerizar esas soluciones y aprendí a construirlas yo mismo.
 
-Hoy programo por curiosidad y por proyectos: videojuegos en Godot, extensiones de navegador, scripts que me resuelven la vida. No vengo del palo de sistemas — vengo del palo de *"esto se tiene que poder hacer"*.
+Hoy esa combinación es mi ventaja: entiendo el problema de negocio **y** lo resuelvo con código. No vengo del palo de sistemas — vengo del palo de *"esto se tiene que poder hacer"*.
 
 ## 🚀 Qué estoy construyendo
 
@@ -35,17 +35,33 @@ Mi primer videojuego: *Kiwipaw Bakehouse*, una panadería felina cozy hecha con 
 </tr>
 </table>
 
-## 🛠️ Herramientas que uso
+## 🛠️ Stack y herramientas
+
+**Desarrollo**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Phaser](https://img.shields.io/badge/Phaser-8CC84B?style=for-the-badge&logo=phaser&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-También integro **IA generativa** en mis flujos creativos (arte, assets, código) — y del otro mundo: Meta Ads, Google Ads, analítica, CRMs y gestión de proyectos.
+**Motores y frameworks**
+
+![Phaser](https://img.shields.io/badge/Phaser-8CC84B?style=for-the-badge&logo=phaser&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Herramientas y flujo de trabajo**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
+![IA Generativa](https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+Integro **IA generativa** en mis flujos de desarrollo y creativos (código, arte, assets). Y del lado del negocio: Meta Ads, Google Ads, analítica y gestión de proyectos.
 
 ## 🎭 Fuera del teclado
 
@@ -61,6 +77,6 @@ Cine, videojuegos y teatro. Creo que las buenas historias y los buenos productos
 
 <div align="center">
 
-*"Curioso profesional. El resto se aprende."*
+*"Del problema a la solución. Del concepto al deploy."*
 
 </div>
